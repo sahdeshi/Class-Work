@@ -7,6 +7,7 @@ public class main {
         System.out.println("what is life");
         System.out.println("yo yo banta rapper");
         System.out.println(Math.random());
+        System.out.println("kidda");
     }
     
 }
